@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la ; ls -al ..
+ls -la /dir1 /dir2
