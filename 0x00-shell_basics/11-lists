@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la ..
+ls -la /parent directory /working directory
