@@ -1,3 +1,2 @@
-
 #!/bin/bash
-cat list|ls -m|sort|uniq
+sort | uniq -u
